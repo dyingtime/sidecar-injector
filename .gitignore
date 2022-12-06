@@ -13,3 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.idea/*
+kubebuilder init --domain dyingtime.space --repo dyingtime.space/sidecar-injector --plugins=go/v4-alpha

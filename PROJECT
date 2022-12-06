@@ -1,0 +1,6 @@
+domain: dyingtime.github.io
+layout:
+- go.kubebuilder.io/v3
+projectName: sidecar-injector
+repo: dyingtime.github.io/sidecar-injector
+version: "3"
